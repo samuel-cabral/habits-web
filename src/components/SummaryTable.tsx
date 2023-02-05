@@ -1,5 +1,5 @@
 import { generateDatesFromYearBeginning } from "../utils/generate-dates-year-beginning";
-import { HabitDay } from "./Habit";
+import { HabitDay } from "./HabitDay";
 
 const weekDays = [
   'S',
